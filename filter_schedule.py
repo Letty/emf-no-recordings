@@ -11,7 +11,7 @@ talks_not_recorded = []
 with open('schedule.json') as jfile:
     schedule = json.load(jfile)
     for talk in schedule:
-        if talk['may_record'] != True and talk['type'] == "talk":
+        if talk['may_record'] != True and talk['source'] == "database" and "Stage" in talk['venue'] :
             talks_not_recorded.append(talk)
             event = Event()
             event.add('summary', "{0}, Venue: {1}".format(talk['title'], talk['venue']))

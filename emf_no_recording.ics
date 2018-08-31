@@ -1,0 +1,782 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//EMF talks without recording//
+BEGIN:VEVENT
+SUMMARY:From Idiot to Imposter: how to get started in a new field\, Venue:
+  Stage B\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T153000
+DTEND;VALUE=DATE-TIME:20180902T160000
+URL:https://www.emfcamp.org/line-up/2018/76
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Making And Understanding Real Cider\, Venue: Stage C\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180831T140000
+DTEND;VALUE=DATE-TIME:20180831T143000
+URL:https://www.emfcamp.org/line-up/2018/107
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Do you really want a robot in your old age?\, Venue: Stage C\, Typ
+ e: talk
+DTSTART;VALUE=DATE-TIME:20180901T142000
+DTEND;VALUE=DATE-TIME:20180901T145000
+URL:https://www.emfcamp.org/line-up/2018/258
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lesson 101: Making Fashion Tech & Human Organs \, Venue: Stage A\,
+  Type: talk
+DTSTART;VALUE=DATE-TIME:20180831T161000
+DTEND;VALUE=DATE-TIME:20180831T164000
+URL:https://www.emfcamp.org/line-up/2018/87
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Making the Mini.Mu\, a sewable\, codeable instrument for kids\, Ve
+ nue: Stage C\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180831T193000
+DTEND;VALUE=DATE-TIME:20180831T200000
+URL:https://www.emfcamp.org/line-up/2018/127
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open Bionics: Turning children with limb differences into bionic s
+ uperheroes \, Venue: Stage C\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180901T122000
+DTEND;VALUE=DATE-TIME:20180901T125000
+URL:https://www.emfcamp.org/line-up/2018/433
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Falling Faster Straight Down\, or How Taking 3D Printing to New He
+ ights \, Venue: Stage B\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T104000
+DTEND;VALUE=DATE-TIME:20180902T110000
+URL:https://www.emfcamp.org/line-up/2018/474
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Algorithmic Light Art: How To Not Suck\, Venue: Stage B\, Type: ta
+ lk
+DTSTART;VALUE=DATE-TIME:20180831T161000
+DTEND;VALUE=DATE-TIME:20180831T170000
+URL:https://www.emfcamp.org/line-up/2018/376
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Actually\, it's about ethics in software engineering\, Venue: Stag
+ e B\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T115000
+DTEND;VALUE=DATE-TIME:20180902T122000
+URL:https://www.emfcamp.org/line-up/2018/63
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Banned from encrypting\, Venue: Stage A\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180901T143000
+DTEND;VALUE=DATE-TIME:20180901T150000
+URL:https://www.emfcamp.org/line-up/2018/393
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WHY DID YOU MAKE THAT?\, Venue: Stage C\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T131000
+DTEND;VALUE=DATE-TIME:20180902T134000
+URL:https://www.emfcamp.org/line-up/2018/522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:What makes processors fail - and how to prevent it\, Venue: Stage 
+ A\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T160000
+DTEND;VALUE=DATE-TIME:20180902T165000
+URL:https://www.emfcamp.org/line-up/2018/417
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spider Silk: Hacking Nature's Strongest Fibre\, Venue: Stage A\, T
+ ype: talk
+DTSTART;VALUE=DATE-TIME:20180901T112000
+DTEND;VALUE=DATE-TIME:20180901T115000
+URL:https://www.emfcamp.org/line-up/2018/357
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Orbs Game Explained\, Venue: Stage C\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T111000
+DTEND;VALUE=DATE-TIME:20180902T114000
+URL:https://www.emfcamp.org/line-up/2018/423
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Project Awesome - Two Men\, A Pipe Organ and A Russian Army Lorry.
+ \, Venue: Stage C\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180901T162000
+DTEND;VALUE=DATE-TIME:20180901T165000
+URL:https://www.emfcamp.org/line-up/2018/322
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Building a robot with MATLAB and Simulink\, Venue: Stage C\, Type:
+  talk
+DTSTART;VALUE=DATE-TIME:20180902T172000
+DTEND;VALUE=DATE-TIME:20180902T174000
+URL:https://www.emfcamp.org/line-up/2018/524
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Using Machine Learning for Humanitarian Aims\, Venue: Stage C\, Ty
+ pe: talk
+DTSTART;VALUE=DATE-TIME:20180901T150000
+DTEND;VALUE=DATE-TIME:20180901T153000
+URL:https://www.emfcamp.org/line-up/2018/136
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Dark-Dark Dark-Matter Matter-Matter\, Venue: Stage A\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180831T173000
+DTEND;VALUE=DATE-TIME:20180831T180000
+URL:https://www.emfcamp.org/line-up/2018/504
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:LGBTQIA+ Behaviour in Animals \, Venue: Stage A\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180901T133000
+DTEND;VALUE=DATE-TIME:20180901T135000
+URL:https://www.emfcamp.org/line-up/2018/405
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The 1949 EDSAC Computer Rebuild\, Venue: Stage B\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180831T193000
+DTEND;VALUE=DATE-TIME:20180831T200000
+URL:https://www.emfcamp.org/line-up/2018/451
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lightning Talks Friday\, Venue: Stage B\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180831T134000
+DTEND;VALUE=DATE-TIME:20180831T144000
+URL:https://www.emfcamp.org/line-up/2018/483
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sex Robots! The Truth Behind the Headlines\, Venue: Stage A\, Type
+ : talk
+DTSTART;VALUE=DATE-TIME:20180831T193000
+DTEND;VALUE=DATE-TIME:20180831T200000
+URL:https://www.emfcamp.org/line-up/2018/374
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:From making to maintaining \, Venue: Stage C\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T175000
+DTEND;VALUE=DATE-TIME:20180902T181000
+URL:https://www.emfcamp.org/line-up/2018/142
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Magical Time To Be Alive\, Venue: Stage B\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180901T111000
+DTEND;VALUE=DATE-TIME:20180901T114000
+URL:https://www.emfcamp.org/line-up/2018/336
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taming Terrain: Sculpting geoscapes from LiDAR\, Venue: Stage A\, 
+ Type: talk
+DTSTART;VALUE=DATE-TIME:20180831T181000
+DTEND;VALUE=DATE-TIME:20180831T184000
+URL:https://www.emfcamp.org/line-up/2018/223
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adventures in Undertent Heating\, Venue: Stage A\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180831T153000
+DTEND;VALUE=DATE-TIME:20180831T160000
+URL:https://www.emfcamp.org/line-up/2018/493
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Taking Over The World with Scratch\, Venue: Stage C\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180831T130000
+DTEND;VALUE=DATE-TIME:20180831T135000
+URL:https://www.emfcamp.org/line-up/2018/74
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shooting Lasers at the Countryside: An Introduction to Mobile Mapp
+ ing\, Venue: Stage A\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T104000
+DTEND;VALUE=DATE-TIME:20180902T111000
+URL:https://www.emfcamp.org/line-up/2018/280
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Chromatouch\, Venue: Stage C\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T115000
+DTEND;VALUE=DATE-TIME:20180902T122000
+URL:https://www.emfcamp.org/line-up/2018/523
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The (Connected) House of Horrors\, Venue: Stage A\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T124000
+DTEND;VALUE=DATE-TIME:20180902T131000
+URL:https://www.emfcamp.org/line-up/2018/1
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BRAAAAAAAINS: Archaeology and Philosophy of Zombies in Games\, Ven
+ ue: Stage A\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T192000
+DTEND;VALUE=DATE-TIME:20180902T200000
+URL:https://www.emfcamp.org/line-up/2018/309
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Augmented Hilarity\, Venue: Stage A\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T170000
+DTEND;VALUE=DATE-TIME:20180902T174000
+URL:https://www.emfcamp.org/line-up/2018/444
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Shaping sound\, Venue: Stage B\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T100000
+DTEND;VALUE=DATE-TIME:20180902T103000
+URL:https://www.emfcamp.org/line-up/2018/340
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Why and How you should start using Onion Networking\, Venue: Stage
+  C\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180831T181000
+DTEND;VALUE=DATE-TIME:20180831T184000
+URL:https://www.emfcamp.org/line-up/2018/263
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Power to the people: liberating online communication with Matrix.o
+ rg\, Venue: Stage A\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180901T155000
+DTEND;VALUE=DATE-TIME:20180901T162000
+URL:https://www.emfcamp.org/line-up/2018/264
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Failure Enthusiast\, Venue: Stage B\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180901T104000
+DTEND;VALUE=DATE-TIME:20180901T110000
+URL:https://www.emfcamp.org/line-up/2018/186
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A Tour Through the Visualization Jungle\, Venue: Stage B\, Type: t
+ alk
+DTSTART;VALUE=DATE-TIME:20180901T165000
+DTEND;VALUE=DATE-TIME:20180901T172000
+URL:https://www.emfcamp.org/line-up/2018/389
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Numbers vs Resources: The History of Banking\, Venue: Stage B\, Ty
+ pe: talk
+DTSTART;VALUE=DATE-TIME:20180901T173000
+DTEND;VALUE=DATE-TIME:20180901T180000
+URL:https://www.emfcamp.org/line-up/2018/200
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lightning Talks Sunday\, Venue: Stage C\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T100000
+DTEND;VALUE=DATE-TIME:20180902T110000
+URL:https://www.emfcamp.org/line-up/2018/485
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Never Mind the Molluscs: (Mis)Adventures in "Aggro-Rhythmic Compos
+ ition"\, Venue: Stage C\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180901T103000
+DTEND;VALUE=DATE-TIME:20180901T111000
+URL:https://www.emfcamp.org/line-up/2018/446
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Newsveillance\, Venue: Stage C\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180831T164000
+DTEND;VALUE=DATE-TIME:20180831T171000
+URL:https://www.emfcamp.org/line-up/2018/147
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Document & quantify informal learning \, Venue: Stage C\, Type: ta
+ lk
+DTSTART;VALUE=DATE-TIME:20180901T170000
+DTEND;VALUE=DATE-TIME:20180901T172000
+URL:https://www.emfcamp.org/line-up/2018/401
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The making of TiLDA Mk4\, Venue: Stage A\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T120000
+DTEND;VALUE=DATE-TIME:20180902T123000
+URL:https://www.emfcamp.org/line-up/2018/491
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A brief history of Leap Seconds\, Venue: Stage B\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T123000
+DTEND;VALUE=DATE-TIME:20180902T130000
+URL:https://www.emfcamp.org/line-up/2018/32
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hacking using SAT and SMT solvers\, Venue: Stage C\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180901T134000
+DTEND;VALUE=DATE-TIME:20180901T141000
+URL:https://www.emfcamp.org/line-up/2018/412
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:BrightSign: Gesture Recognition and Talking Gloves\, Venue: Stage 
+ C\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180901T173000
+DTEND;VALUE=DATE-TIME:20180901T180000
+URL:https://www.emfcamp.org/line-up/2018/539
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Hunting for (un)known particles\, Venue: Stage C\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T153000
+DTEND;VALUE=DATE-TIME:20180902T160000
+URL:https://www.emfcamp.org/line-up/2018/469
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:101 Hacks for Late Soviet Water Towers\, Venue: Stage A\, Type: ta
+ lk
+DTSTART;VALUE=DATE-TIME:20180831T133000
+DTEND;VALUE=DATE-TIME:20180831T140000
+URL:https://www.emfcamp.org/line-up/2018/229
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Racing the Sun\, Venue: Stage C\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T193000
+DTEND;VALUE=DATE-TIME:20180902T200000
+URL:https://www.emfcamp.org/line-up/2018/2
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:An Introduction to Software-Defined Radio (SDR)\, Venue: Stage B\,
+  Type: talk
+DTSTART;VALUE=DATE-TIME:20180901T161000
+DTEND;VALUE=DATE-TIME:20180901T164000
+URL:https://www.emfcamp.org/line-up/2018/505
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Life after Robot Wars\, Venue: Stage A\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T100000
+DTEND;VALUE=DATE-TIME:20180902T103000
+URL:https://www.emfcamp.org/line-up/2018/83
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:AI Safety\, Venue: Stage B\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180831T145000
+DTEND;VALUE=DATE-TIME:20180831T152000
+URL:https://www.emfcamp.org/line-up/2018/159
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How the Internet has changed emergencies\, Venue: Stage C\, Type: 
+ talk
+DTSTART;VALUE=DATE-TIME:20180901T181000
+DTEND;VALUE=DATE-TIME:20180901T184000
+URL:https://www.emfcamp.org/line-up/2018/157
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Truth\, Post-Truth & Nothing Like The Truth\, Venue: Stage B\,
+  Type: talk
+DTSTART;VALUE=DATE-TIME:20180901T193000
+DTEND;VALUE=DATE-TIME:20180901T200000
+URL:https://www.emfcamp.org/line-up/2018/413
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:10 years building self-balancing ride on robots\, Venue: Stage B\,
+  Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T173000
+DTEND;VALUE=DATE-TIME:20180902T180000
+URL:https://www.emfcamp.org/line-up/2018/366
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Poetoid Lyricam: A Camera That Takes Poems\, Venue: Stage C\, Type
+ : talk
+DTSTART;VALUE=DATE-TIME:20180901T185000
+DTEND;VALUE=DATE-TIME:20180901T192000
+URL:https://www.emfcamp.org/line-up/2018/386
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bricolage: a makers podcast LIVE\, Venue: Stage C\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180831T144000
+DTEND;VALUE=DATE-TIME:20180831T151000
+URL:https://www.emfcamp.org/line-up/2018/387
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Animatronics and robots in the movies with Matt Denton\, Venue: St
+ age A\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180901T183000
+DTEND;VALUE=DATE-TIME:20180901T190000
+URL:https://www.emfcamp.org/line-up/2018/492
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SHA2017 - Behind the scenes of a hacker conference\, Venue: Stage 
+ B\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T165000
+DTEND;VALUE=DATE-TIME:20180902T172000
+URL:https://www.emfcamp.org/line-up/2018/14
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ArduTouch music synthesizer -- music generation for newbies\, Venu
+ e: Stage C\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T161000
+DTEND;VALUE=DATE-TIME:20180902T171000
+URL:https://www.emfcamp.org/line-up/2018/24
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:WaveNet\, what's behind Google's voice\, Venue: Stage B\, Type: ta
+ lk
+DTSTART;VALUE=DATE-TIME:20180901T185000
+DTEND;VALUE=DATE-TIME:20180901T192000
+URL:https://www.emfcamp.org/line-up/2018/406
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Out daemons\, out! Exploring depression through sweary automata.\,
+  Venue: Stage B\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T185000
+DTEND;VALUE=DATE-TIME:20180902T192000
+URL:https://www.emfcamp.org/line-up/2018/97
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Richard Feynman: Dick.\, Venue: Stage A\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T185000
+DTEND;VALUE=DATE-TIME:20180902T191000
+URL:https://www.emfcamp.org/line-up/2018/143
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Things That Go Bump On The Net\, Venue: Stage A\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180901T175000
+DTEND;VALUE=DATE-TIME:20180901T182000
+URL:https://www.emfcamp.org/line-up/2018/425
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How to Use Digital Tools to Make Clothes and Shoes\, Venue: Stage 
+ B\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180901T143000
+DTEND;VALUE=DATE-TIME:20180901T150000
+URL:https://www.emfcamp.org/line-up/2018/232
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Maths and Video Games\, Venue: Stage A\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180901T171000
+DTEND;VALUE=DATE-TIME:20180901T174000
+URL:https://www.emfcamp.org/line-up/2018/13
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Full communism and free pickles - life lessons from Ursula K Le Gu
+ in\, Venue: Stage B\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180831T181000
+DTEND;VALUE=DATE-TIME:20180831T184000
+URL:https://www.emfcamp.org/line-up/2018/206
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Who watches the watchers in Web PKI?\, Venue: Stage C\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180901T154000
+DTEND;VALUE=DATE-TIME:20180901T161000
+URL:https://www.emfcamp.org/line-up/2018/352
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Computational Creativity\, Venue: Stage C\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180901T193000
+DTEND;VALUE=DATE-TIME:20180901T200000
+URL:https://www.emfcamp.org/line-up/2018/396
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The use and abuse of CT scanners\, Venue: Stage A\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T132000
+DTEND;VALUE=DATE-TIME:20180902T135000
+URL:https://www.emfcamp.org/line-up/2018/65
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Codes of Ethics for tech: the hip old thing\, Venue: Stage B\, Typ
+ e: talk
+DTSTART;VALUE=DATE-TIME:20180831T185000
+DTEND;VALUE=DATE-TIME:20180831T192000
+URL:https://www.emfcamp.org/line-up/2018/289
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Everything you never wanted to know about smart lightbulbs\, Venue
+ : Stage A\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180831T185000
+DTEND;VALUE=DATE-TIME:20180831T192000
+URL:https://www.emfcamp.org/line-up/2018/131
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunny with a Mild Chance of Catastrophe\, Venue: Stage B\, Type: t
+ alk
+DTSTART;VALUE=DATE-TIME:20180831T153000
+DTEND;VALUE=DATE-TIME:20180831T160000
+URL:https://www.emfcamp.org/line-up/2018/168
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Story of Elmer McCurdy\, Venue: Stage C\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T190000
+DTEND;VALUE=DATE-TIME:20180902T192000
+URL:https://www.emfcamp.org/line-up/2018/16
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Car Hacking - Back to the future 1970’s style Part II\, Venue: S
+ tage A\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180901T151000
+DTEND;VALUE=DATE-TIME:20180901T154000
+URL:https://www.emfcamp.org/line-up/2018/211
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Why automated number plate recognition systems suck\, Venue: Stage
+  A\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T140000
+DTEND;VALUE=DATE-TIME:20180902T143000
+URL:https://www.emfcamp.org/line-up/2018/284
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The TIM Project: Building a relay computer from scrap\, Venue: Sta
+ ge C\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180901T130000
+DTEND;VALUE=DATE-TIME:20180901T133000
+URL:https://www.emfcamp.org/line-up/2018/35
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Iain Softley in conversation with Jake Davis\, Venue: Stage C\, Ty
+ pe: talk
+DTSTART;VALUE=DATE-TIME:20180901T222000
+DTEND;VALUE=DATE-TIME:20180901T230000
+URL:https://www.emfcamp.org/line-up/2018/534
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Antiparticles and Geiger counters\, Venue: Stage B\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180901T100000
+DTEND;VALUE=DATE-TIME:20180901T103000
+URL:https://www.emfcamp.org/line-up/2018/167
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Attacking Websites for Educational Purposes Only\, Venue: Stage A\
+ , Type: talk
+DTSTART;VALUE=DATE-TIME:20180901T100000
+DTEND;VALUE=DATE-TIME:20180901T102000
+URL:https://www.emfcamp.org/line-up/2018/371
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Beehive monitor based on Raspberry Pi\, Venue: Stage B\, Type: tal
+ k
+DTSTART;VALUE=DATE-TIME:20180901T154000
+DTEND;VALUE=DATE-TIME:20180901T160000
+URL:https://www.emfcamp.org/line-up/2018/69
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Boiling Nemo - Make your own Internet of Things\, Venue: Stage A\,
+  Type: talk
+DTSTART;VALUE=DATE-TIME:20180831T141000
+DTEND;VALUE=DATE-TIME:20180831T144000
+URL:https://www.emfcamp.org/line-up/2018/145
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Battle of Mosul: what does it mean to live in a post-Geneva Co
+ nvention world\, Venue: Stage B\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180901T181000
+DTEND;VALUE=DATE-TIME:20180901T184000
+URL:https://www.emfcamp.org/line-up/2018/302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Developing Games for the Casino/Gaming Industry\, Venue: Stage B\,
+  Type: talk
+DTSTART;VALUE=DATE-TIME:20180901T151000
+DTEND;VALUE=DATE-TIME:20180901T153000
+URL:https://www.emfcamp.org/line-up/2018/130
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adventures in retrocomputing\, Venue: Stage B\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T193000
+DTEND;VALUE=DATE-TIME:20180902T200000
+URL:https://www.emfcamp.org/line-up/2018/50
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Tweet My Wedding Dress\, Venue: Stage C\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T150000
+DTEND;VALUE=DATE-TIME:20180902T152000
+URL:https://www.emfcamp.org/line-up/2018/155
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bootstrapping a hackerspace\, Venue: Stage B\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T181000
+DTEND;VALUE=DATE-TIME:20180902T184000
+URL:https://www.emfcamp.org/line-up/2018/92
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Why volunteers are unsung heroes of science \, Venue: Stage A\, Ty
+ pe: talk
+DTSTART;VALUE=DATE-TIME:20180901T140000
+DTEND;VALUE=DATE-TIME:20180901T142000
+URL:https://www.emfcamp.org/line-up/2018/445
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Why does 🍕 mean "I love you" : The ways that we use and misuse 
+ emoji\, Venue: Stage A\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T144000
+DTEND;VALUE=DATE-TIME:20180902T151000
+URL:https://www.emfcamp.org/line-up/2018/373
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The secret powers of podcasting\, Venue: Stage C\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180901T112000
+DTEND;VALUE=DATE-TIME:20180901T121000
+URL:https://www.emfcamp.org/line-up/2018/477
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Future of Invention\, Venue: Stage C\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180831T160000
+DTEND;VALUE=DATE-TIME:20180831T163000
+URL:https://www.emfcamp.org/line-up/2018/82
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adventures in somatosensory music\, body hacking & beyond\, Venue:
+  Stage B\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180901T130000
+DTEND;VALUE=DATE-TIME:20180901T133000
+URL:https://www.emfcamp.org/line-up/2018/471
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How to dispose of a body: a dead interesting talk\, Venue: Stage A
+ \, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T152000
+DTEND;VALUE=DATE-TIME:20180902T155000
+URL:https://www.emfcamp.org/line-up/2018/141
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Open-Source Modular Tech Jewelry\, Venue: Stage B\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T131000
+DTEND;VALUE=DATE-TIME:20180902T134000
+URL:https://www.emfcamp.org/line-up/2018/276
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5 things we can all learn from Flaming Pianos \, Venue: Stage A\, 
+ Type: talk
+DTSTART;VALUE=DATE-TIME:20180901T163000
+DTEND;VALUE=DATE-TIME:20180901T170000
+URL:https://www.emfcamp.org/line-up/2018/478
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Why The World Needs A Vagina Museum\, Venue: Stage C\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180831T172000
+DTEND;VALUE=DATE-TIME:20180831T180000
+URL:https://www.emfcamp.org/line-up/2018/94
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Urban Beekeeping: How to get started\, Venue: Stage A\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180901T124000
+DTEND;VALUE=DATE-TIME:20180901T132000
+URL:https://www.emfcamp.org/line-up/2018/62
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pi Wars - Challenging kids (and adults) to build competitive robot
+ s\, Venue: Stage B\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180831T130000
+DTEND;VALUE=DATE-TIME:20180831T133000
+URL:https://www.emfcamp.org/line-up/2018/154
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Designing Custom Chips and Sensors and Lab-in-a-Pill Technology\, 
+ Venue: Stage C\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180831T152000
+DTEND;VALUE=DATE-TIME:20180831T155000
+URL:https://www.emfcamp.org/line-up/2018/70
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How to make a humanoid using a 3D printer\, wheelchair\, and ROS!\
+ , Venue: Stage C\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180831T185000
+DTEND;VALUE=DATE-TIME:20180831T192000
+URL:https://www.emfcamp.org/line-up/2018/455
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Lightning Talks Saturday\, Venue: Stage B\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180901T115000
+DTEND;VALUE=DATE-TIME:20180901T125000
+URL:https://www.emfcamp.org/line-up/2018/484
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Don't Feed Them After Midnight: Reverse-Engineering the Furby Conn
+ ect\, Venue: Stage A\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180901T103000
+DTEND;VALUE=DATE-TIME:20180901T111000
+URL:https://www.emfcamp.org/line-up/2018/111
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:A cheap\, remotely posable presence robot using a Raspberry Pi\, w
+ ebRTC and a few servos\, Venue: Stage A\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180831T130000
+DTEND;VALUE=DATE-TIME:20180831T132000
+URL:https://www.emfcamp.org/line-up/2018/456
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Closing Ceremony\, Venue: Stage A\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T203000
+DTEND;VALUE=DATE-TIME:20180902T210000
+URL:https://www.emfcamp.org/line-up/2018/487
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deploying a LoRaWAN network\, Venue: Stage A\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T112000
+DTEND;VALUE=DATE-TIME:20180902T115000
+URL:https://www.emfcamp.org/line-up/2018/463
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Smart Materials\, Venue: Stage B\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T135000
+DTEND;VALUE=DATE-TIME:20180902T144000
+URL:https://www.emfcamp.org/line-up/2018/112
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Art And Science Of The Motivational Corporate Anthem\, Venue: 
+ Stage C\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180901T100000
+DTEND;VALUE=DATE-TIME:20180901T102000
+URL:https://www.emfcamp.org/line-up/2018/457
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cracking HiTag2 Crypto\, Venue: Stage B\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180831T171000
+DTEND;VALUE=DATE-TIME:20180831T180000
+URL:https://www.emfcamp.org/line-up/2018/73
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Making music in the free and open-source world\, Venue: Stage B\, 
+ Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T145000
+DTEND;VALUE=DATE-TIME:20180902T152000
+URL:https://www.emfcamp.org/line-up/2018/450
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Adventures in DIY Electronic Instruments\, Venue: Stage B\, Type: 
+ talk
+DTSTART;VALUE=DATE-TIME:20180901T134000
+DTEND;VALUE=DATE-TIME:20180901T142000
+URL:https://www.emfcamp.org/line-up/2018/362
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Singularity: dance\, digital ethics and datavis\, Venue: Stage
+  C\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T123000
+DTEND;VALUE=DATE-TIME:20180902T130000
+URL:https://www.emfcamp.org/line-up/2018/216
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Burnout and Your Meat Computer\, Venue: Stage A\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180901T120000
+DTEND;VALUE=DATE-TIME:20180901T123000
+URL:https://www.emfcamp.org/line-up/2018/38
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:CANUTE. Making the worlds first multiline braille reader\, an engi
+ neers story. \, Venue: Stage C\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T142000
+DTEND;VALUE=DATE-TIME:20180902T145000
+URL:https://www.emfcamp.org/line-up/2018/408
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How to Climb a Mountain.\, Venue: Stage B\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T161000
+DTEND;VALUE=DATE-TIME:20180902T164000
+URL:https://www.emfcamp.org/line-up/2018/176
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Science Magic...Magic Science\, Venue: Stage A\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180831T145000
+DTEND;VALUE=DATE-TIME:20180831T152000
+URL:https://www.emfcamp.org/line-up/2018/267
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:How To Make a Movie at EMF\, Venue: Stage C\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180831T202000
+DTEND;VALUE=DATE-TIME:20180831T204000
+URL:https://www.emfcamp.org/line-up/2018/529
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Opening Ceremony\, Venue: Stage A\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180831T123000
+DTEND;VALUE=DATE-TIME:20180831T125000
+URL:https://www.emfcamp.org/line-up/2018/486
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Knitting Network Printer\, Venue: Stage B\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T111000
+DTEND;VALUE=DATE-TIME:20180902T114000
+URL:https://www.emfcamp.org/line-up/2018/29
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:EMF 2018 Infrastructure Review\, Venue: Stage A\, Type: talk
+DTSTART;VALUE=DATE-TIME:20180902T175000
+DTEND;VALUE=DATE-TIME:20180902T184000
+URL:https://www.emfcamp.org/line-up/2018/71
+END:VEVENT
+END:VCALENDAR
